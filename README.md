@@ -1,0 +1,1 @@
+# assosiative_memory_certification
